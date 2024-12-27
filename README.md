@@ -43,6 +43,11 @@ const PUBLIC_BOT = false; // Make your bot public (only [true, false] are allowe
 
 <br>
 
+## 📡 Live Demo
+Check out the live demo [here](https://t.me/InsomniumBot).
+
+<br>
+
 ## 📦 Python Package ([pypi.org](https://pypi.org/project/somnium/))
 ### Installation:
 ```bash
