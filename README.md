@@ -3,7 +3,7 @@
   <a href="#Gif"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25px"></a>
    Worker
 </h1>
-<p>Create your own Somnium AI Art Generator using cloudflare workers.</p>
+<p>Create your own Somnium AI Art Generator Bot using cloudflare workers.</p>
 
 <br>
 
@@ -39,7 +39,7 @@ const PUBLIC_BOT = false; // Make your bot public (only [true, false] are allowe
 - Once you deployed the bot on Cloudflare.
 - Check `XXX.XXXX.workers.dev/getMe` to verify your bot authorization.
 - Open `XXX.XXXX.workers.dev/registerWebhook` to register your bot webhook.
-- Then you can start using your bot.
+- Now you can start using your bot by sending `prompt` or `/generate prompt`.
 
 <br>
 
